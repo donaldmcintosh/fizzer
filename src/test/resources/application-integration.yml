@@ -1,0 +1,6 @@
+fizz:
+  start: 1
+  max: 10
+  magicNumbers:
+    2: "Fizz"
+    4: "Buzz"

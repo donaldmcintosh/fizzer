@@ -1,0 +1,8 @@
+fizz:
+  start: 1
+  max: 100
+  magicNumbers:
+    3: "Fizz"
+    5: "Buzz"
+  features:
+    ENABLE_MATCH_NUMBER
